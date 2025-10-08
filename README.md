@@ -16,10 +16,6 @@ And one utility:
 
 ## Start a new project with this template
 
-```sh
-# with bun
-bun create expo-app my-app --template https://github.com/kadikraman/expo-starter
-
 # with npm
-npx create-expo-app my-app --template https://github.com/kadikraman/expo-starter
+npx create-expo-app my-app --template https://github.com/oristhony/expo-starter
 ```
